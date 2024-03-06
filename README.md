@@ -1,5 +1,5 @@
 
- After cloning First activate the virtual environment by running following commands
+ After cloning the repository  firstly activate the virtual environment by running following commands
 
 # .venv\Scripts\activate (For Windows) <br/>
 # source .venv/bin/activate (For Linux) <br/>
